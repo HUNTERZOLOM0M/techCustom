@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techCustom
+- 👋 Hi, I’m @HUNTERZOLOMON
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on making offical roms
