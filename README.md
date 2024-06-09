@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HUNTERZOLOMON
+- 👋 Hi, I’m @NITROX
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on making offical roms
